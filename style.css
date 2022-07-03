@@ -65,3 +65,15 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+#full-stack-baby-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
